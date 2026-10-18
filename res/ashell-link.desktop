@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=一个壳子 URL Scheme Handler
+NoDisplay=true
+MimeType=x-scheme-handler/ashell;
+TryExec=ashell
+Exec=ashell %u
+Icon=ashell
+Terminal=false
+Type=Application
+StartupNotify=false
+StartupWMClass=ashell
